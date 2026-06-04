@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1917769_vams.visitor" name="x_1917769_vams.visitor">09a69ecd939dcf508d1a327efaba10d3</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-04 06:02:52</sys_created_on>
+        <sys_id>cda69ecd939dcf508d1a327efaba10da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>09a69ecd939dcf508d1a327efaba10d3</sys_name>
+        <sys_package display_value="VAMS" source="x_1917769_vams">8185d60593ddcf508d1a327efaba1046</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="VAMS">8185d60593ddcf508d1a327efaba1046</sys_scope>
+        <sys_update_name>sys_embedded_help_role_cda69ecd939dcf508d1a327efaba10da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-04 06:02:52</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

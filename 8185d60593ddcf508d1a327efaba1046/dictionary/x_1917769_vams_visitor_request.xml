@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0e395e8d93ddcf508d1a327efaba107a" label="Visitor Request" max_length="40" name="x_1917769_vams_visitor_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Check-Out" max_length="40" name="check_out" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Visitor Name" max_length="40" name="visitor_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Company Name" max_length="40" name="company_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Purpose of Visit" max_length="40" name="purpose_of_visit" type="string"/>
+        <element attributes="encode_utf8=false" label="Host Employee" max_length="32" name="host_employee" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Visit Date" max_length="40" name="visit_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone Number" max_length="40" name="phone_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Approval Comments" max_length="40" name="approval_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Check-In" max_length="40" name="check_in" type="glide_date_time"/>
+        <index name="index">
+            <element name="host_employee"/>
+        </index>
+    </element>
+</database>
