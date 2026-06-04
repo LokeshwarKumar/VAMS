@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="insertOrUpdate">
+        <access>public</access>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access>false</caller_access>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <csv_access>false</csv_access>
+        <delete_access>true</delete_access>
+        <ef_acl>use_parent_table</ef_acl>
+        <exec_access>false</exec_access>
+        <field_access_controls>false</field_access_controls>
+        <is_extendable>true</is_extendable>
+        <label>Check-In Log</label>
+        <list_children>false</list_children>
+        <list_rows>10</list_rows>
+        <logged_table_device>false</logged_table_device>
+        <label_msgid>x_1917769_vams_checkin_log.table_label</label_msgid>
+        <label_plural>Check-In Logs</label_plural>
+        <label_plural_msgid>x_1917769_vams_checkin_log.table_label_plural</label_plural_msgid>
+        <name>x_1917769_vams_checkin_log</name>
+        <policy_page_type/>
+        <read_access>true</read_access>
+        <record_ownership_type/>
+        <record_rules>false</record_rules>
+        <rest_enable>true</rest_enable>
+        <rfc1566_compliant>false</rfc1566_compliant>
+        <role_separation>false</role_separation>
+        <schema>public</schema>
+        <search_index>false</search_index>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-04 00:00:00</sys_created_on>
+        <sys_id>x_1917769_vams_checkin_log</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-04 00:00:00</sys_updated_on>
+        <sys_update_name>sys_db_object_x_1917769_vams_checkin_log</sys_update_name>
+        <sys_update_version>1</sys_update_version>
+        <update_access>true</update_access>
+        <user_role>false</user_role>
+        <ws_access>false</ws_access>
+    </sys_db_object>
+</record_update>

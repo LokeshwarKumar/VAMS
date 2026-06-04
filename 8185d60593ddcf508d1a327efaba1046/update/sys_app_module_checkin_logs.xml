@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app_module">
+    <sys_app_module action="insertOrUpdate">
+        <active>true</active>
+        <application>x_1917769_vams</application>
+        <assessment/>
+        <can_print>true</can_print>
+        <description/>
+        <document_id/>
+        <label>Check-In Logs</label>
+        <link_type>LIST</link_type>
+        <name>x_1917769_vams_checkin_log</name>
+        <order>400</order>
+        <query/>
+        <roles>x_1917769_vams.security,x_1917769_vams.receptionist,x_1917769_vams.facility_admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-04 00:00:00</sys_created_on>
+        <sys_id>x_1917769_vams_module_checkin_logs</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-04 00:00:00</sys_updated_on>
+        <sys_update_name>sys_app_module_x_1917769_vams_module_checkin_logs</sys_update_name>
+        <sys_update_version>1</sys_update_version>
+        <sys_package display_value="VAMS">8185d60593ddcf508d1a327efaba1046</sys_package>
+        <use_main_prefix>false</use_main_prefix>
+    </sys_app_module>
+</record_update>

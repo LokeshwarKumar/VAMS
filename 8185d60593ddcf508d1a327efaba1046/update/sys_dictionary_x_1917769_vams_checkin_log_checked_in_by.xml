@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_dictionary">
+    <sys_dictionary action="insertOrUpdate">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Checked In By</column_label>
+        <comments/>
+        <create_roles/>
+        <defaultsort/>
+        <defaultvalue/>
+        <defaultvalue_script/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>true</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_default_value_script/>
+        <enforce_unique_constraint>false</enforce_unique_constraint>
+        <escape_model_on_new_platform>true</escape_model_on_new_platform>
+        <example_text/>
+        <exclusion_ui_type/>
+        <fetch_exclusive_ui_type/>
+        <fetch_filter_type/>
+        <fetch_limit/>
+        <fetch_modifier/>
+        <fetch_read_roles/>
+        <fetch_template/>
+        <fetch_template_script/>
+        <fetch_uses_display_value>false</fetch_uses_display_value>
+        <field_name>checked_in_by</field_name>
+        <field_type>reference</field_type>
+        <function_altering_sql/>
+        <function_definition/>
+        <function_field_type/>
+        <geolocation_qualifier/>
+        <glide_object_type/>
+        <help/>
+        <high_precision>false</high_precision>
+        <internal_type display_value="Reference">reference</internal_type>
+        <is_virtual>false</is_virtual>
+        <label>Checked In By</label>
+        <label_msgid>x_1917769_vams_checkin_log.checked_in_by</label_msgid>
+        <length>32</length>
+        <master_table>x_1917769_vams_checkin_log</master_table>
+        <max_length>32</max_length>
+        <mandatory>true</mandatory>
+        <max_value/>
+        <message/>
+        <message_above/>
+        <message_below/>
+        <method/>
+        <min_value/>
+        <module/>
+        <name>x_1917769_vams_checkin_log</name>
+        <next_element/>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference>sys_user</reference>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_script/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-04 00:00:00</sys_created_on>
+        <sys_id>x_1917769_vams_checkin_log_checked_in_by</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-04 00:00:00</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_1917769_vams_checkin_log_checked_in_by</sys_update_name>
+        <sys_update_version>1</sys_update_version>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>false</use_reference_qualifier>
+        <virtual_table>false</virtual_table>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+</record_update>

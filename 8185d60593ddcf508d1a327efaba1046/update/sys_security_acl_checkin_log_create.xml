@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="insertOrUpdate">
+        <active>true</active>
+        <condition/>
+        <inherit>true</inherit>
+        <name>x_1917769_vams_checkin_log</name>
+        <operation>create</operation>
+        <role_id/>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-04 00:00:00</sys_created_on>
+        <sys_id>x_1917769_vams_acl_checkin_log_create</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-04 00:00:00</sys_updated_on>
+        <sys_update_name>sys_security_acl_x_1917769_vams_acl_checkin_log_create</sys_update_name>
+        <sys_update_version>1</sys_update_version>
+        <type>record</type>
+    </sys_security_acl>
+</record_update>
